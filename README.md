@@ -1,2 +1,2 @@
 # spellingbee-cracker
-A spelling bee work cracker.
+A spelling bee cracker. (nytimes)
